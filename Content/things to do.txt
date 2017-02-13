@@ -1,0 +1,17 @@
+things to do in Game
+
+1) handle projectiles
+2) handle AOE attacks
+3) handle friendly fire as boolean
+4) make confused work
+5) create visual die representation
+6) handle hud and menus
+7) save and load data from one game to the next
+8) weight paint and import characters and enemies
+8b) animate characters with appropriate animations from step 9
+9) Develop skill kits for characters and enemies
+10) Develop and implement character levelling progression and costs
+11) Network Capacity 
+12) AI
+13) Sound
+14) 
